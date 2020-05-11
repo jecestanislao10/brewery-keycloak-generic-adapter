@@ -1,0 +1,1 @@
+# brewery-keycloak-generic-adapter
